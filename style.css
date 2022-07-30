@@ -14,7 +14,7 @@
 /* Screens */
 
 @media only screen and (max-width: 1440px) {
-    main {
+    .card {
         width: 635px;
         height: 475px;
         margin: 160px 0;
@@ -70,7 +70,7 @@
 }
 
 @media only screen and (max-width: 375px) {
-    main {
+    .card {
         width: 310px;
         height: 725px;
         margin: 70px 0;
@@ -139,7 +139,7 @@ body {
     align-items: center;
 }
 
-main {
+.card {
     box-shadow: 0 16px 10px 10px rgba(0, 0, 0, 0.08);
 }
 
